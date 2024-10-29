@@ -11,3 +11,9 @@
   - I like teach the students.
 - **Open Web**, Front-End Developer (started at 2024.09)
   - Work harder.
+
+## Skills
+
+- **Programming Languages**: JavaScript, TypeScript
+- **Frameworks**: React, Next JS
+- **Other Skills**: HTML, CSS, Git, Tailwind, MUI, antd
